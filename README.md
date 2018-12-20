@@ -1,5 +1,5 @@
 # CodeGenerator
-<p dir='rtl' align='right'> 
+<div dir='rtl' align='right'> 
 NetCore Code Generator
 
 نرم افزار تولید کد بر اساس پایگاه داده
@@ -68,4 +68,4 @@ Stimulsoft
  برنامه در حال توسعه میباشد.
 
 
-</p>
+</div>
