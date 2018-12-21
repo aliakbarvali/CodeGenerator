@@ -41,20 +41,20 @@ Number sign
 
 ایجاد منوی مدیریت:
 
-![alt text](https://raw.githubusercontent.com/aliakbarvali/CodeGenerator/master/A1.JPG)
+![alt text](https://raw.githubusercontent.com/aliakbarvali/fileArchive/blob//master/A1.JPG)
 
 ایجاد گرید براساس کامپوننت تلریک:
 
 
-![alt text](https://raw.githubusercontent.com/aliakbarvali/CodeGenerator/master/A2.JPG)
+![alt text](https://raw.githubusercontent.com/aliakbarvali/fileArchive/blob//master/A2.JPG)
 
 ایجاد صفحات : ایجاد، ویرایش، نمایش بصورت آژاکسی
 
 
-![alt text](https://raw.githubusercontent.com/aliakbarvali/CodeGenerator/master/A3.JPG)
+![alt text](https://raw.githubusercontent.com/aliakbarvali/fileArchive/blob//master/A3.JPG)
 
 
-![alt text](https://raw.githubusercontent.com/aliakbarvali/CodeGenerator/master/A4.JPG)
+![alt text](https://raw.githubusercontent.com/aliakbarvali/fileArchive/blob//master/A4.JPG)
 
 خروجی های 
 Excel , Pdf
